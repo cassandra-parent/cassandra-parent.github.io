@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can my fully updated list of publications [here](https://scholar.google.com/citations?hl=en&user=KAiSN1EAAAAJ)
+You can my fully updated list of publications [here](https://scholar.google.com/citations?hl=en&user=KAiSN1EAAAAJ).
 
 
 {% include base_path %}
