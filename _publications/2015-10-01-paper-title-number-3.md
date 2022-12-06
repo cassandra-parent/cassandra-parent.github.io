@@ -1,15 +1,11 @@
 ---
-title: "Paper Title Number 3"
+title: "Factors driving provider adoption of the TREWS machine learning-based early warning system and its effects on sepsis treatment
+timing"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
----
-This paper is about the number 3. The number 4 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
-
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+permalink: /publication/TREWS_provider_adoption
+excerpt: 'This work de'
+date: 2022-07-10
+venue: 'Nature Medicine'
+paperurl: 'https://doi.org/10.1038/s41591-022-01895-z '
+citation: 'Henry K*, Adams R*, **Parent C***, Sridharan A, Johnson L, Hager DN, Cosgrove S, Markowski A, Klein E, Chen E, Henley M, Miranda S, Houston K, Linton II RC, Ahluwalia AR, Wu AW, Saria S. Factors driving provider adoption of the TREWS machine learning-based early warning system and its effects on sepsis treatment
+timing, Nature Medicine, 2022. https://doi.org/10.1038/s41591-022-01895-z *Co-first authors'
