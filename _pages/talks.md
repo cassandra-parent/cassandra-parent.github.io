@@ -5,14 +5,14 @@ permalink: /talks/
 author_profile: true
 ---
 
-### Towards point- of-care internal hemorrhage detection 
+## Towards point- of-care internal hemorrhage detection 
 
 *Military Health and Research Symposium, September 2022*
 
 __Parent C__, Ruci A, Huang F, Simon E, Zhang E, Krishnan A, Eng R, Hayat A, Furer A, Durr NJ. 
 Towards point- of-care internal hemorrhage detection. Military Health System Research Symposium. Oral Presentation (2022).
 
-### Building Xerostomia Prediction Models from Multiple Institutional Treatment Planning Data
+## Building Xerostomia Prediction Models from Multiple Institutional Treatment Planning Data
 
 *Johns Hopkins Radiation Oncology Scientific Retreat, June 2022* 
 
