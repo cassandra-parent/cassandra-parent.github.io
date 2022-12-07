@@ -1,7 +1,6 @@
 ---
-title: "Latino Household Transmission of Severe Acute Respiratory Syndrome Coronavirus"
+title: [Latino Household Transmission of Severe Acute Respiratory Syndrome Coronavirus](https://academic.oup.com/cid/article/74/9/1675/6360016)
 collection: publications
-permalink: https://academic.oup.com/cid/article/74/9/1675/6360016
 date: 2022-05-01
 venue: 'Clinical Infectious Diseases'
 ---
