@@ -20,7 +20,7 @@ timing, Nature Medicine, 2022. https://doi.org/10.1038/s41591-022-01895-z \*Co-f
 
 Martinez DA, Klein E, __Parent C__, Prieto D, Bigelow BF, Saxton RE, Page KR, Latino Household Transmission of SARS-CoV-2, Clinical Infectious Diseases, 2021. doi: https://doi.org/10.1093/cid/ciab753 
 
-### High Uptake and Series Completion of Covid-19 Vaccine at Community-Based Vaccination for Latinos With Limited English Proficiency
+### [High Uptake and Series Completion of Covid-19 Vaccine at Community-Based Vaccination for Latinos With Limited English Proficiency](https://pubmed.ncbi.nlm.nih.gov/36074797/)
 
 *Journal of Public Health Management & Practice, Nov 2022*
 
