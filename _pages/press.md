@@ -9,7 +9,7 @@ author_profile: true
 
 *The Atlantic, October 2022*
 
-### [EXPANDING ACCESS TO COVID-19 VACCINES TO LATINOS WITH LIMITED ENGLISH PROFICIENCY DURING THE EARLY PHASES OF VACCINATION](https://jphmpdirect.com/2022/10/06/expanding-access-to-covid-19-vaccines-to-latinos-with-limited-english-proficiency-during-the-early-phases-of-vaccination/)
+### [Expanding Access to Covid-19 Vaccines To Latinos With Limited English Proficiency During the Early Phases of Vaccination](https://jphmpdirect.com/2022/10/06/expanding-access-to-covid-19-vaccines-to-latinos-with-limited-english-proficiency-during-the-early-phases-of-vaccination/)
 
 *JPHMP Direct, October 2022*
 
