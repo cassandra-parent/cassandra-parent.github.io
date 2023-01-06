@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can my fully updated list of publications on my Google Scholar [profile](https://scholar.google.com/citations?hl=en&user=KAiSN1EAAAAJ).
+You can find a fully updated list of my publications on my Google Scholar [profile](https://scholar.google.com/citations?hl=en&user=KAiSN1EAAAAJ).
 
 ### [Factors driving provider adoption of the TREWS machine learning-based early warning system and its effects on sepsis treatment timing](https://www.nature.com/articles/s41591-022-01895-z)
 
