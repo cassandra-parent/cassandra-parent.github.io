@@ -14,6 +14,6 @@ Broadly, I am interested in developing explainable machine learning tools for so
 
 Previously, I have worked with Prof. Suchi Saria on [analyzing provider factors](https://www.nature.com/articles/s41591-022-01895-z) that increased interaction with a machine learning sepsis decision support tool. I am currently working as a part-time consultant for the start-up [Bayesian Health](https://www.bayesianhealth.com/) which is a spin-out from Prof. Saria's research.
 
-I have also led a team in developing a novel [internal hemorrhage diagnostic](https://www.diotexdiagnostics.com/) tool for prehospital settings. We have presented our work at the Military Health Science and Research Symposium and are currently patent pending. 
+I have also led a team in developing a novel [internal hemorrhage diagnostic](https://www.bme.jhu.edu/news-events/news/diotex-earns-10000-from-draper-competition/) tool for prehospital settings. We have presented our work at the Military Health Science and Research Symposium and are currently patent pending.
 
 Please feel free to contact me with any questions!
