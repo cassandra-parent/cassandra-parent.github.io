@@ -50,7 +50,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -75,12 +75,12 @@ analytics:
 author:
   name             : "Cassandra Parent"
   avatar           : "bio-pro-pic.jpg"
-  bio              : "Research Assistant at Johns Hopkins University & Pontificia Universidad Católitica de Valparaiso"
+  bio              : "First Year Ph.D. Student at MIT and Harvard Medical School"
   location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=KAiSN1EAAAAJ"
-  email            : "cparent5@jhu.edu"
+  email            : "cparent@mit.edu"
   researchgate     :  
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "clparent121"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
