@@ -8,12 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! My name is Cassandra (Cassie) Parent, and I'm a joint research assistant with Johns Hopkins and Pontificia Universidad Católica de Valparaíso. My research focuses on using data-driven approaches to [decrease healthcare disparities](https://jphmpdirect.com/2022/10/06/expanding-access-to-covid-19-vaccines-to-latinos-with-limited-english-proficiency-during-the-early-phases-of-vaccination/) in underserved Latino populations. 
+Hello! My name is Cassandra (Cassie) Parent, and I'm a first year PhD student at MIT and Harvard Medical School in the Medical Engineering and Medical Physics program with a focus in computer science. Broadly, my research interests are in developing explainable machine learning tools for social good. 
 
-Broadly, I am interested in developing explainable machine learning tools for social good. 
+Previously, I have worked with Prof. Suchi Saria on [analyzing provider factors](https://www.nature.com/articles/s41591-022-01895-z) that increased interaction with a machine learning sepsis decision support tool and have worked as an intern at the company [Bayesian Health](https://www.bayesianhealth.com/) which spun out of Prof. Saria's research. I was also a research assistant at Johsn Hopkins School of Medicine in a collaboration with Pontificia Universidad Católica de Valparaíso. My research there focused on using data-driven approaches to [decrease healthcare disparities](https://jphmpdirect.com/2022/10/06/expanding-access-to-covid-19-vaccines-to-latinos-with-limited-english-proficiency-during-the-early-phases-of-vaccination/) in underserved Latino populations. I was also previously a Machine Learning Intern for [Oncospace](https://oncospace.com/) where I used machine learning to predict adverse side effects from cancer treatments. 
 
-Previously, I have worked with Prof. Suchi Saria on [analyzing provider factors](https://www.nature.com/articles/s41591-022-01895-z) that increased interaction with a machine learning sepsis decision support tool. I am currently working as a part-time consultant for the start-up [Bayesian Health](https://www.bayesianhealth.com/) which is a spin-out from Prof. Saria's research.
+I am still involved in my undergraduate capstone project, where I led a team in developing a novel [internal hemorrhage diagnostic](https://www.diotexdiagnostics.com/) tool for prehospital settings. We have raised over $75,000 in student grants, have presented our work at the Military Health Science and Research Symposium, and are patent pending.
 
-I have also led a team in developing a novel [internal hemorrhage diagnostic](https://www.bme.jhu.edu/news-events/news/diotex-earns-10000-from-draper-competition/) tool for prehospital settings. We have presented our work at the Military Health Science and Research Symposium and are currently patent pending.
-
-Please feel free to contact me with any questions!
+Please feel free to contact me with any questions! I'm also happy to chat about my way too numerous hobbies including reading, hiking, and fiber art.
