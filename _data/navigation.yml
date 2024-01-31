@@ -12,8 +12,5 @@ main:
   - title: "Press"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-
-  - title: "Hobbies + Fun"
-    url: /hobbies-fun/
+  - title: "Not Science"
+    url: /not-science/
