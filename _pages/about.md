@@ -26,4 +26,6 @@ Previously, I have worked with Prof. Suchi Saria at Johns Hopkins University on 
 
 My other prior work has included serving as a research assistant at Johns Hopkins School of Medicine where I focused on using data-driven approaches to [decrease healthcare disparities](https://jphmpdirect.com/2022/10/06/expanding-access-to-covid-19-vaccines-to-latinos-with-limited-english-proficiency-during-the-early-phases-of-vaccination/) in underserved Latino populations. I also led my undergraduate captsone project team in developing a novel internal hemorrhage diagnostic tool for prehospital settings. We raised over $75,000 in student grants, have presented our work at the Military Health Science and Research Symposium, and received a patent for the device.
 
+## Misc. 
+I love to read and co-founded the IMES Bookclub through the Health Science Technologies Program. I also write a bit, play some chess, and generally enjoy being outside. 
 
