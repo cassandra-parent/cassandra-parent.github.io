@@ -17,7 +17,7 @@ Right now, I am especially excited about women's health projects in AI and debia
 ## Recent News
 
 - Mar. 2026: Co-authored paper on LLM non-affirmation behaviors for human rights accepted into FAccT 2026!
-- Jan. 2026: Co-authored paper on rotational debiasing for VLMs accepted into ICLR 2026!
+- Jan. 2026: Co-authored paper on [rotational debiasing for VLMs](https://openreview.net/pdf?id=tkE29O0jzF) accepted into ICLR 2026!
 
 
 ## Prior Work
