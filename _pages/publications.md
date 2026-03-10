@@ -20,9 +20,8 @@ You can find a fully updated list of my publications on my Google Scholar [profi
 *ICLR, April 2026*
 
 Gerych W, **Parent C**, Perian Q, Javed R, Solomon J, Ghassemi M.  
-WRING Out The Bias: A Rotation-Based Alternative To Projection Debiasing. 
-ICLR, 2026. 
 
+</div>
 </div>
 
 <div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
@@ -36,7 +35,6 @@ ICLR, 2026.
 *Nature Medicine, July 2022*
 
 Henry K\*, Adams R\*, **Parent C\***, Sridharan A, Johnson L, Hager DN, Cosgrove S, Markowski A, Klein E, Chen E, Henley M, Miranda S, Houston K, Linton II RC, Ahluwalia AR, Wu AW, Saria S.  
-Factors driving provider adoption of the TREWS machine learning-based early warning system and its effects on sepsis treatment timing.  
 \*Co-first authors
 
 </div>
@@ -69,9 +67,6 @@ Parent C, Bigelow BF, Martinez DA, Saxton RE, Page KR.
 *Clinical Infectious Diseases, May 2022*
 
 Martinez DA, Klein E, **Parent C**, Prieto D, Bigelow BF, Saxton RE, Page KR.  
-Latino Household Transmission of SARS-CoV-2.  
-Clinical Infectious Diseases, 2021.  
-https://doi.org/10.1093/cid/ciab753
 
 </div>
 </div>
