@@ -16,8 +16,9 @@ Right now, I am especially excited about women's health projects in AI and debia
 
 ## Recent News
 
-- Mar. 2026: Co-authored paper on LLM non-affirmation behaviors for human rights accepted into FAccT 2026!
-- Jan. 2026: Co-authored paper on [rotational debiasing for VLMs](https://openreview.net/pdf?id=tkE29O0jzF) accepted into ICLR 2026!
+- **Mar. 2026:** Co-authored paper on LLM non-affirmation behaviors for human rights accepted into FAccT 2026!
+- **Jan. 2026:** Co-authored paper on [rotational debiasing for VLMs](https://openreview.net/pdf?id=tkE29O0jzF) accepted into ICLR 2026!
+- **May 2025:** My team won the inaugural [MIT Women's Health in AI Hackathon](https://fmml-hackathon.vercel.app/index.html#about) for our project on predicting maternal interpersonal violence. 
 
 
 ## Prior Work
