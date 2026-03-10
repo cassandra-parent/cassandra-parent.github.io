@@ -58,7 +58,7 @@ Parent C, Bigelow BF, Martinez DA, Saxton RE, Page KR.
 
 <div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
 
-<img src="images/timely.png" width="180">
+<img src="house.png" width="180">
 
 <div>
 
