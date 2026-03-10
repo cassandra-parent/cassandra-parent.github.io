@@ -15,6 +15,22 @@ You can find a fully updated list of my publications on my Google Scholar [profi
 
 <div>
 
+**[WRING Out The Bias: A Rotation-Based Alternative To Projection Debiasing](https://iclr.cc/virtual/2026/poster/10006955)**  
+
+*ICLR, April 2026*
+
+Gerych W, **Parent C**, Perian Q, Javed R, Solomon J, Ghassemi M.  
+WRING Out The Bias: A Rotation-Based Alternative To Projection Debiasing. 
+ICLR, 2026. 
+
+</div>
+
+<div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
+  
+<img src="images/trews_fig.png" width="180">
+
+<div>
+
 **[Factors driving provider adoption of the TREWS machine learning-based early warning system and its effects on sepsis treatment timing](https://www.nature.com/articles/s41591-022-01895-z)**  
 
 *Nature Medicine, July 2022*
@@ -29,7 +45,22 @@ Factors driving provider adoption of the TREWS machine learning-based early warn
 
 <div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
 
-<img src="images/covid_household_fig.png" width="180">
+<img src="images/trews_fig.png" width="180">
+
+<div>
+
+**[High Uptake and Series Completion of Covid-19 Vaccine at Community-Based Vaccination for Latinos With Limited English Proficiency](https://pubmed.ncbi.nlm.nih.gov/36074797/)**  
+
+*American Journal of Public Health, 2023.*
+
+Parent C, Bigelow BF, Martinez DA, Saxton RE, Page KR.
+
+</div>
+</div>
+
+<div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
+
+<img src="images/trews_fig.png" width="180">
 
 <div>
 
@@ -41,38 +72,6 @@ Martinez DA, Klein E, **Parent C**, Prieto D, Bigelow BF, Saxton RE, Page KR.
 Latino Household Transmission of SARS-CoV-2.  
 Clinical Infectious Diseases, 2021.  
 https://doi.org/10.1093/cid/ciab753
-
-</div>
-</div>
-
-
-<div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
-
-<img src="images/faith_coalition_fig.png" width="180">
-
-<div>
-
-**[Coalition of Faith Leaders, Community Organizations, and Governmental Organizations to Implement a COVID-19 Campaign in a Latino Neighborhood, Baltimore, Maryland, 2020–2021](https://ajph.aphapublications.org/doi/10.2105/AJPH.2022.307074)**  
-
-*American Journal of Public Health, July 2022*
-
-Bigelow BF, Martínez DA, Phillips K, **Parent C**, Saxton RE, Yang C, Page KR.
-
-</div>
-</div>
-
-
-<div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
-
-<img src="images/vaccine_uptake_fig.png" width="180">
-
-<div>
-
-**[High Uptake and Series Completion of Covid-19 Vaccine at Community-Based Vaccination for Latinos With Limited English Proficiency](https://pubmed.ncbi.nlm.nih.gov/36074797/)**  
-
-*Journal of Community Health, 2022*
-
-Parent C, Bigelow BF, Martinez DA, Saxton RE, Page KR.
 
 </div>
 </div>
