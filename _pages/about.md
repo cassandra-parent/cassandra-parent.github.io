@@ -10,7 +10,7 @@ redirect_from:
 
 Hello! My name is Cassandra (Cassie) Parent, and I'm a PhD student at MIT and Harvard Medical School in the Medical Engineering and Medical Physics program. I am supervised by [Prof. Marzyeh Ghassemi](https://healthyml.org/) and supported by the NSF GRFP. 
 
-My research broadly focuses on developing equitable machine learning models for underserved, chronic health conditons. This is achieved through two key directions: 1) creating accurate estimations in wellness care and 2) creating methods to debias off-the-shelf ML models that are frequently being deployed in healthcare settings. By focusing on these directions, we will hopefully create new equitable ML tools while also improving debiasing techniques for cutting-edge industry models to expand their use case. 
+My research broadly focuses on developing equitable machine learning models for underserved, chronic health conditons. This is achieved through two key directions: 1) creating accurate estimations in wellness care and 2) creating methods to [debias off-the-shelf ML models](https://iclr.cc/virtual/2026/poster/10006955) that are frequently being deployed in healthcare settings. By focusing on these directions, we will hopefully create new equitable ML tools while also improving debiasing techniques for cutting-edge industry models to expand their use case. 
 
 Right now, I am especially excited about women's health projects in AI and debiasing vision-language models (VLMs). 
 
