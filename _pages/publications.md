@@ -11,7 +11,7 @@ updated. You can find a full list of my publications on my Google Scholar [profi
 
 <div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
 
-<img src="wring.png" width="180">
+<img src="wring.png" width="360">
 
 <div markdown="1">
 
@@ -26,7 +26,7 @@ Gerych W, **Parent C**, Perian Q, Javed R, Solomon J, Ghassemi M.
 
 <div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
   
-<img src="/images/trews_fig.png" width="180">
+<img src="/images/trews_fig.png" width="360">
 
 <div markdown="1">
 
@@ -43,7 +43,7 @@ Henry K\*, Adams R\*, **Parent C\***, Sridharan A, Johnson L, Hager DN, Cosgrove
 
 <div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
 
-<img src="timely.png" width="180">
+<img src="timely.png" width="360">
 
 <div markdown="1">
 
@@ -58,7 +58,7 @@ Parent C, Bigelow BF, Martinez DA, Saxton RE, Page KR.
 
 <div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
 
-<img src="house.png" width="180">
+<img src="house.png" width="360">
 
 <div markdown="1">
 
