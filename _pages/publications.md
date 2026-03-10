@@ -13,7 +13,7 @@ You can find a full list of my publications on my Google Scholar [profile](https
 
 <img src="wring.png" width="180">
 
-<div>
+<div markdown="1">
 
 **[WRING Out The Bias: A Rotation-Based Alternative To Projection Debiasing](https://iclr.cc/virtual/2026/poster/10006955)**  
 
@@ -28,7 +28,7 @@ Gerych W, **Parent C**, Perian Q, Javed R, Solomon J, Ghassemi M.
   
 <img src="trews_fig.png" width="180">
 
-<div>
+<div markdown="1">
 
 **[Factors driving provider adoption of the TREWS machine learning-based early warning system and its effects on sepsis treatment timing](https://www.nature.com/articles/s41591-022-01895-z)**  
 
@@ -45,7 +45,7 @@ Henry K\*, Adams R\*, **Parent C\***, Sridharan A, Johnson L, Hager DN, Cosgrove
 
 <img src="timely.png" width="180">
 
-<div>
+<div markdown="1">
 
 **[High Uptake and Series Completion of Covid-19 Vaccine at Community-Based Vaccination for Latinos With Limited English Proficiency](https://pubmed.ncbi.nlm.nih.gov/36074797/)**  
 
@@ -60,7 +60,7 @@ Parent C, Bigelow BF, Martinez DA, Saxton RE, Page KR.
 
 <img src="house.png" width="180">
 
-<div>
+<div markdown="1">
 
 **[Latino Household Transmission of Severe Acute Respiratory Syndrome Coronavirus](https://academic.oup.com/cid/article/74/9/1675/6360016)**  
 
