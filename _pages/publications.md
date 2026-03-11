@@ -43,7 +43,7 @@ Henry K\*, Adams R\*, **Parent C\***, Sridharan A, Johnson L, Hager DN, Cosgrove
 
 <div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
 
-<img src="timely.png" width="360">
+<img src="/images/timely.png" width="360">
 
 <div markdown="1">
 
