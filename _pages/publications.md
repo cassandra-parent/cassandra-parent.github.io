@@ -51,7 +51,7 @@ Henry K\*, Adams R\*, **Parent C\***, Sridharan A, Johnson L, Hager DN, Cosgrove
 
 *American Journal of Public Health, 2023.*
 
-Parent C, Bigelow BF, Martinez DA, Saxton RE, Page KR.
+**Parent C**, Bigelow BF, Martinez DA, Saxton RE, Page KR.
 
 </div>
 </div>
