@@ -49,7 +49,7 @@ Henry K\*, Adams R\*, **Parent C\***, Sridharan A, Johnson L, Hager DN, Cosgrove
 
 **[High Uptake and Series Completion of Covid-19 Vaccine at Community-Based Vaccination for Latinos With Limited English Proficiency](https://pubmed.ncbi.nlm.nih.gov/36074797/)**  
 
-*American Journal of Public Health, 2023.*
+*American Journal of Public Health, Sept. 2023.*
 
 **Parent C**, Bigelow BF, Martinez DA, Saxton RE, Page KR.
 
