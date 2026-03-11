@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /year-archive/
+permalink: /service/
 title: "Service"
 author_profile: true
 ---
@@ -15,4 +15,4 @@ author_profile: true
 * MEng Mentor (2025 - 2026)
 
 ### Department Service
-*  Roger G. Mark Outstanding Service Award Recipient for the IMES Bookclub 
+*  Roger G. Mark Outstanding Service Award Recipient for the IMES Bookclub (2026)
