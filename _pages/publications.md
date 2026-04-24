@@ -7,14 +7,28 @@ author_profile: true
 
 You can find a full list of my publications on my Google Scholar [profile](https://scholar.google.com/citations?hl=en&user=KAiSN1EAAAAJ).
 
-### Select Publications
+## Select Publications
 
 <div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
 
 <img src="/images/wring.png" width="360">
 
 <div markdown="1">
+**[Hedging and Non-Affirmation: Quantifying LLM Alignment on Questions of Human Rights](https://arxiv.org/pdf/2502.19463)**  
 
+*FAccT, June 2026*
+
+Javed R **Parent C**, Kay J, Yanni D, Zaini A, Sheikh A, Rauh M, Gerych W, Comanescu R, Gabriel I, Ghassemi M, Weidinger L.  
+
+</div>
+</div>
+
+<div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
+  
+<img src="/images/trews_fig.png" width="360">
+
+<div markdown="1">
+  
 **[WRING Out The Bias: A Rotation-Based Alternative To Projection Debiasing](https://iclr.cc/virtual/2026/poster/10006955)**  
 
 *ICLR, April 2026*
