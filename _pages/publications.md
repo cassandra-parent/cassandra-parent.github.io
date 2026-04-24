@@ -25,7 +25,7 @@ Javed R **Parent C**, Kay J, Yanni D, Zaini A, Sheikh A, Rauh M, Gerych W, Coman
 
 <div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
   
-<img src="/images/trews_fig.png" width="360">
+<img src="/images/wring.png" width="360">
 
 <div markdown="1">
   
