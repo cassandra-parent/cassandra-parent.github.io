@@ -7,7 +7,7 @@ author_profile: true
 
 ### Reviewer 
 * Conferences: CHIL 2025
-* Workshops: NeurIPS 2025 TS4H Workshop; NeurIPS 2025 Reliable ML Workshop
+* Workshops: NeurIPS 2025 TS4H Workshop; NeurIPS 2025 Reliable ML Workshop; ICML 2026 SD4H Workshop
 
 ### Mentorship
 * SuperUROP Mentor for two undergraduate students (2025-2026)
