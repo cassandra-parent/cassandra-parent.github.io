@@ -10,10 +10,7 @@ redirect_from:
 
 Hello! My name is Cassandra (Cassie) Parent, and I'm a PhD student at MIT and Harvard Medical School in the Medical Engineering and Medical Physics program. I am supervised by [Prof. Marzyeh Ghassemi](https://healthyml.org/) and supported by the NSF GRFP. 
 
-My work sits at the intersection of AI safety and clinical decision support (CDS), using high-stakes healthcare settings to study how models behave when they encounter complex, heterogeneous, and poorly defined real-world problems. I develop methods to discover hidden biases and harmful associations, characterize model behavior across populations and contexts, and [improve the safety and reliability of models](https://iclr.cc/virtual/2026/poster/10006955) beyond what can be captured by standard offline benchmarks.
-
-I use underserved conditions in women's health as a case study for translating these advances into real-world deployment. My research combines foundation models, multimodal learning, and clinical data to develop more equitable decision-support systems while evaluating their clinical, economic, and societal utility. Ultimately, I aim to bridge fundamental AI safety research with responsible deployment, developing methods that make increasingly capable AI systems more robust, interpretable, fair, and reliable in the high-stakes environments where their failures matter most.
-
+My work sits at the intersection of AI safety and clinical decision support (CDS), using high-stakes healthcare settings to study how models behave when they encounter complex, heterogeneous, and poorly defined real-world problems. I develop methods to discover hidden biases and harmful associations, characterize model behavior across populations and contexts, and [improve the safety and reliability of models](https://iclr.cc/virtual/2026/poster/10006955) beyond what can be captured by standard offline benchmarks. I often using women's health conditions as a case study to assess these model behaviors as I strive to develop more equitable decision-support systems with clinical and economic utility. 
 
 ## Recent News
 
