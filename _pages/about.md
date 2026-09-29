@@ -10,9 +10,10 @@ redirect_from:
 
 Hello! My name is Cassandra (Cassie) Parent, and I'm a PhD student at MIT and Harvard Medical School in the Medical Engineering and Medical Physics program. I am supervised by [Prof. Marzyeh Ghassemi](https://healthyml.org/) and supported by the NSF GRFP. 
 
-My research broadly focuses on developing equitable machine learning models for underserved, chronic health conditons. This is achieved through two key directions: 1) creating accurate estimations in wellness care and 2) creating methods to [debias off-the-shelf ML models](https://iclr.cc/virtual/2026/poster/10006955) that are frequently being deployed in healthcare settings. By focusing on these directions, we will hopefully create new equitable ML tools while also improving debiasing techniques for cutting-edge industry models to expand their use case. 
+My work sits at the intersection of AI safety and clinical decision support (CDS), using high-stakes healthcare settings to study how models behave when they encounter complex, heterogeneous, and poorly defined real-world problems. I develop methods to discover hidden biases and harmful associations, characterize model behavior across populations and contexts, and [improve the safety and reliability of models](https://iclr.cc/virtual/2026/poster/10006955) beyond what can be captured by standard offline benchmarks.
 
-Right now, I am especially excited about women's health projects in AI and debiasing vision-language models (VLMs). 
+I use underserved conditions in women's health as a case study for translating these advances into real-world deployment. My research combines foundation models, multimodal learning, and clinical data to develop more equitable decision-support systems while evaluating their clinical, economic, and societal utility. Ultimately, I aim to bridge fundamental AI safety research with responsible deployment, developing methods that make increasingly capable AI systems more robust, interpretable, fair, and reliable in the high-stakes environments where their failures matter most.
+
 
 ## Recent News
 
@@ -24,7 +25,7 @@ Right now, I am especially excited about women's health projects in AI and debia
 
 ## Prior Work
 
-Previously, I have worked with Prof. Suchi Saria at Johns Hopkins University on [analyzing provider factors](https://www.nature.com/articles/s41591-022-01895-z) that increased interaction with a machine learning sepsis decision support tool. I have also worked as an intern at [Bayesian Health](https://www.bayesianhealth.com/) which spun out of the lab's research.
+Previously, I have worked with Prof. Suchi Saria at Johns Hopkins University on [analyzing provider factors](https://www.nature.com/articles/s41591-022-01895-z) that increased interaction with a machine learning sepsis decision support tool, TREWS. I have also worked as an intern at [Bayesian Health](https://www.bayesianhealth.com/) where I worked on the FDA application for TREWS which [was recently approved!](https://www.medicaldevice-network.com/news/bayesian-fda-510k-clearance-continuous-ai-sepsis-system/)
 
 My other prior work has included serving as a research assistant at Johns Hopkins School of Medicine where I focused on using data-driven approaches to [decrease healthcare disparities](https://jphmpdirect.com/expanding-access-to-covid-19-vaccines-to-latinos-with-limited-english-proficiency-during-the-early-phases-of-vaccination/) in underserved Latino populations. I also led my undergraduate captsone project team in developing a novel internal hemorrhage diagnostic tool for prehospital settings. We raised over [$75,000 in student grants](https://www.bme.jhu.edu/news-events/news/diotex-earns-10000-from-draper-competition/), have presented our work at the Military Health Science and Research Symposium, and received a patent for the device.
 
