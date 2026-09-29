@@ -18,7 +18,7 @@ You can find a full list of my publications on my Google Scholar [profile](https
 
 *FAccT, June 2026*
 
-Javed R **Parent C**, Kay J, Yanni D, Zaini A, Sheikh A, Rauh M, Gerych W, Comanescu R, Gabriel I, Ghassemi M, Weidinger L.  
+Javed R, **Parent C**, Kay J, Yanni D, Zaini A, Sheikh A, Rauh M, Gerych W, Comanescu R, Gabriel I, Ghassemi M, Weidinger L.  
 
 </div>
 </div>
