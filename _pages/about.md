@@ -10,10 +10,11 @@ redirect_from:
 
 Hello! My name is Cassandra (Cassie) Parent, and I'm a PhD candidate at MIT and Harvard Medical School in the Medical Engineering and Medical Physics program. I am supervised by [Prof. Marzyeh Ghassemi](https://healthyml.org/) and supported by the NSF GRFP. 
 
-My work sits at the intersection of AI safety and clinical decision support (CDS), using high-stakes healthcare settings to study how models behave when they encounter complex, heterogeneous, and poorly defined real-world problems. I develop methods to [discover hidden biases](https://arxiv.org/abs/2610.23979) and harmful associations, characterize model behavior across populations and contexts, and [improve the safety and reliability of models](https://iclr.cc/virtual/2026/poster/10006955) beyond what can be captured by standard offline benchmarks. I often using women's health conditions as a case study to assess model behavior as I strive to develop more equitable decision-support systems with clinical and economic utility. 
+My work sits at the intersection of AI safety and clinical decision support (CDS), using high-stakes healthcare settings to study how models behave when they encounter complex, heterogeneous, and poorly defined real-world problems. I develop methods to [discover hidden biases](https://arxiv.org/abs/2610.23979) and harmful associations, characterize model behavior across populations and contexts, and [improve the safety and reliability of models](https://iclr.cc/virtual/2026/poster/10006955) beyond what can be captured by standard offline benchmarks. I often using [women's health conditions](https://www.nature.com/articles/s44528-026-00051-0) as a case study to assess model behavior as I strive to develop more equitable decision-support systems with clinical and economic utility. 
 
 ## Recent News
 
+- **Nov. 2026** First author paper on [pregnancy complication prediction](https://www.nature.com/articles/s44528-026-00051-0) out in Nature Health Comms!
 - **Oct. 2026** First author paper on [discovering unanticipated associations in VLMs](https://arxiv.org/abs/2610.23979) out on arXiv!
 - **Mar. 2026:** Co-authored paper on [LLM non-affirmation behaviors](https://arxiv.org/abs/2502.19463) for human rights accepted into FAccT 2026!
 - **Mar. 2026:** Recipient of the Roger G. Mark Outstanding Service Award for the co-founding and development of the IMES Bookclub for discussions focused on healthcare reform and medical crises.
