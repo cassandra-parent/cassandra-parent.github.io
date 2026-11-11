@@ -7,7 +7,23 @@ author_profile: true
 
 You can find a full list of my publications on my Google Scholar [profile](https://scholar.google.com/citations?hl=en&user=KAiSN1EAAAAJ).
 
+
+
 ## Select Publications
+
+<div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
+
+<img src="/images/pregnancy.png" width="360">
+
+<div markdown="1">
+**[Evaluation of machine learning-based prediction of pregnancy complications and adverse birth outcomes using routine data
+](https://www.nature.com/articles/s44528-026-00051-0)**  
+
+*Nature Health Comms, November 2026*
+
+**Parent C**, Moraitaki C, Ngo A, Greenberg MB, Zhu Y, Ghassemi M.
+
+</div>
 
 <div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
 
