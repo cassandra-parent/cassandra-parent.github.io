@@ -24,6 +24,7 @@ You can find a full list of my publications on my Google Scholar [profile](https
 **Parent C**, Moraitaki C, Ngo A, Greenberg MB, Zhu Y, Ghassemi M.
 
 </div>
+</div>
 
 <div style="display:flex; gap:20px; margin-bottom:35px; align-items:flex-start;">
 
